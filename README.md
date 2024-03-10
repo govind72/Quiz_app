@@ -58,6 +58,8 @@ The Quiz Application is a web-based platform designed to create, manage, and par
 <img width="960" alt="image" src="https://github.com/govind72/Quiz_app/assets/107355441/e1429482-c667-48f8-ba23-631ae3a0fd15">
 <img width="959" alt="image" src="https://github.com/govind72/Quiz_app/assets/107355441/a0d8bc48-50ad-4b87-b733-044e9a4f482c">
 <img width="957" alt="image" src="https://github.com/govind72/Quiz_app/assets/107355441/45363671-9923-42ab-86ea-1b270ba888d0">
+<img width="692" alt="image" src="https://github.com/govind72/Quiz_app/assets/107355441/44fa4deb-51e8-49e1-83c1-6ada0cc0f7d1">
+
 
 
 
